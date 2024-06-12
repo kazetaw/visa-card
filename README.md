@@ -6,7 +6,7 @@
 
 ## Preview
 [Visa Card Preview]([https://www.example.com/markdown-article](https://kazetaw.github.io/visa-card/
-))
+)
 
 ## Installation 
 
