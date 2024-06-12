@@ -1,12 +1,13 @@
 # Visa Card
 
 ![Logo](image/page1.png "page1")
-![Logo](image/page2.png "page1")
+![Logo](image/page2.png "page2")
 
 
 ## Preview
-[Visa Card Preview]([https://www.example.com/markdown-article](https://kazetaw.github.io/visa-card/
-)
+Click to Card for Preview Page 2
+[Visa Card Preview](https://kazetaw.github.io/visa-card)
+
 
 ## Installation 
 
