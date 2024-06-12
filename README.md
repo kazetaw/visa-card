@@ -1,5 +1,5 @@
 # Visa Card
-## Preview Click to Card for Preview Page 2
+## Preview (Click to Card 1 for Preview Page 2)
 [Visa Card Preview](https://kazetaw.github.io/visa-card)
 
 
