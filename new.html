@@ -12,7 +12,10 @@
     .visa {
       width: 70px;
     }
-
+    .bg-gradient-to-r {
+  /* styles... */
+  cursor: pointer;
+}
     .chip {
       width: 35px;
       height: 25px;
@@ -75,7 +78,7 @@
           <div class="text-2xl font-bold">$7,392.00</div>
         </div> -->
       </div>
-      <div class="flex justify-between text-lg font-mono mb-4">
+      <div id="cardLink" class="flex justify-between text-lg font-mono mb-4">
         <div class="text-2xl">4201</div>
         <div class="text-2xl">3049</div>
         <div class="text-2xl">2800</div>
@@ -230,6 +233,11 @@
 
 
   </div>
+  <script>
+    document.getElementById('cardLink').addEventListener('click', function() {
+      window.location.href = 'index.html';
+    });
+  </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.js"></script>
 </body>
 
