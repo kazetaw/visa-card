@@ -1,8 +1,8 @@
 # Visa Card
 
 ![Logo](image/page1.png "page1")
+![Logo](image/card1.png "page2")
 ![Logo](image/card2.png "page2")
-![Logo](image/card3.png "page2")
 ![Logo](image/page2.png "page2")
 
 
